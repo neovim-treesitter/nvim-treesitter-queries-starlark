@@ -1,7 +1,7 @@
 {
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-starlark",
   "semver": false,
   "parser_version": "a453dbf3ba433db0e5ec621a38a7e59d72e4dc69",
   "location": null,
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-starlark",
   "lang": "starlark"
 }
